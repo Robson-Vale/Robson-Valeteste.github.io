@@ -1,0 +1,201 @@
+body {
+ font-family: "Crimson Text", "Times New Roman", serif;
+ background-color: #F2FFFC;
+ font-size: 120%;
+ line-height: 1.5;
+}
+
+h1, h2 {
+ font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+main h1 {
+	 text-align: center;
+	 background-color: #851944;
+	 color: #FFF;
+}
+p {
+ text-align: justify;
+ margin: 20px 0;
+}
+
+blockquote {
+ background-color: #D9E5E3;
+}
+
+aside {
+ background-color: #3C1D3D;
+ color: #F2FFFC;
+ text-align: center;
+
+}
+
+aside h1 {
+ font-size: 30px;
+ margin-bottom: 25px;
+}
+
+footer {
+ background-color: #000;
+ color: #F2FFFC;
+}
+
+main a {
+ color: #851944;
+}
+
+ul {
+ color: pink;
+}
+ul li a {
+ color: inherit;
+}
+
+.citacao-bio, aside, footer {
+ padding: 20px;
+}
+
+main h1 {
+ text-align: center;
+ background-color: #851944;
+ color: #FFF;
+ padding: 25px;
+}
+
+main {
+ width: 720px;
+ margin: auto;
+ padding: 30px 0;
+}
+
+section {
+	float: left;
+    width: 85%;
+	margin-bottom:200px;
+}
+	
+body {
+ font-family: "Crimson Text", "Times New Roman", serif;
+ background-color: #F2FFFC;
+ font-size: 120%;
+ line-height: 1.5;
+}
+
+blockquote {
+ background-color: #D9E5E3;
+ border: 10px solid #C2CCCA;
+}
+
+header h1 {
+ text-align: center;
+ background-color: #851944;
+ color: #FFF;
+ padding: 25px;
+ border-bottom: 10px solid black;
+ font-size: 60px;
+ text-transform: uppercase;
+}
+
+.citacao-bio {
+ background-color: #D9E5E3;
+ border: 10px solid #C2CCCA;
+ width: 250px;
+ box-sizing: border-box;
+ margin: 20px 40px;
+ 
+}
+
+h2 {
+ font-size: 30px;
+ clear: both;
+}
+
+strong {
+ font-weight: bold;
+}
+em {
+ font-style: italic;
+}
+
+nav a {
+ text-transform: lowercase;
+}
+
+
+.icones-redes-sociais li {
+ display: inline-block;
+}
+
+.icones-redes-sociais a {
+ width: 40px;
+ height: 40px;
+ display: inline-block;
+ text-indent: -999999px;
+}
+
+.github {
+ background-image: url(github.png);
+}
+.twitter {
+ background-image: url(twitter.png);
+}
+.linkedin {
+ background-image: url(linkedin.png);
+}
+
+.fiat {
+ float: right;
+}
+.petrobras {
+ float: left;
+}
+
+cite {
+ font-style: italic;
+ float: right;
+}
+
+.minha-foto, .navegacao-site {
+ float: right;
+ box-sizing: border-box;
+ border-left: 10px solid black;
+ border-bottom: 10px solid black;
+}
+
+.minha-foto {
+ position: absolute;
+ top: 0;
+ right: 0;
+}
+
+.navegacao-site {
+ width: 15%;
+ position: relative;
+ top: 310px;
+}
+
+
+.titulo-principal {
+ text-align: center;
+ background-color: #851944;
+ color: #FFF;
+ padding: 25px;
+ border-bottom: 10px solid black;
+ font-size: 60px;
+ text-transform: uppercase;
+}
+
+.rodape-pagina {
+ background-color: #000;
+ color: #F2FFFC;
+ clear: both;
+ position: fixed;
+ bottom: 0;
+ left: 0;
+ width: 100%;
+}
+
+
+
+
+
